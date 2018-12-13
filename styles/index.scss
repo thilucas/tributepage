@@ -1,0 +1,52 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+
+body {
+  background: #F9ED69;
+}
+
+h1 {
+  font-size: 3rem;
+ }
+
+p {
+  text-align: justify;
+  font-size: 1rem;
+}
+
+//Header:
+#title {
+  background-color: #F08A5D;
+  text-align: center;
+  padding: 1% 1% 1% 1%;
+  margin: 1% -1%;
+  border: 0%;
+  width: 100%;
+  color: white;
+}
+//Img div:
+#img-div {
+  text-align:center;
+  margin-top: 3%;
+}
+
+#image {
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+#tribute-info {
+  margin-top: 10%;
+  background-color: #B83B5E;
+  padding: 2% 3%;
+  color: white;
+}
+
+#tribute-link {
+  color:white
+}
